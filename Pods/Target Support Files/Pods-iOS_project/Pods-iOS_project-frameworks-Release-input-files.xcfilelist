@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-iOS_project/Pods-iOS_project-frameworks.sh
+${PODS_ROOT}/../flutter_project/.ios/Flutter/engine/Flutter.framework
+${BUILT_PRODUCTS_DIR}/FlutterPluginRegistrant/FlutterPluginRegistrant.framework
+${PODS_ROOT}/../flutter_project/.ios/Flutter/App.framework
